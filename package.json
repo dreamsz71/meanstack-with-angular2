@@ -1,0 +1,31 @@
+{
+  "name": "mean-ang2",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.9"
+  },
+  "description": "\"# meanstack-with-angular2\"",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamsz71/meanstack-with-angular2.git"
+  },
+  "keywords": [
+    "angular2",
+    "mean",
+    "dreamsz71"
+  ],
+  "author": "Deepak vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamsz71/meanstack-with-angular2/issues"
+  },
+  "homepage": "https://github.com/dreamsz71/meanstack-with-angular2#readme"
+}
